@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HeounJu's_Repo&fontSize=40)
 
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wjdguswn1203&show_icons=true&include_all_commits=true"> &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdguswn1203&layout=compact">
+</p>
+<br>
+
+
 # 💡 Project
 
 - 💻 [**PDFast**](https://github.com/sinizzu) - 기획 침여 및 FE & BE 개발 <sub>(2024.06.24. ~ 2024.08.17)</sub>
