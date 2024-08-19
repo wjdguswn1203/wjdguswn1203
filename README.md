@@ -52,8 +52,8 @@
 
 <br>
 
-
+<!-- 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdguswn1203)](https://solved.ac/wjdguswn1203)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdguswn1203&theme=dark)
-
+-->
