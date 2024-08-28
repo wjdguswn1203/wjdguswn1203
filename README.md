@@ -10,12 +10,12 @@
 
 # 💡 Project
 
-- 💻 [**PDFast**](https://github.com/sinizzu) - 기획 침여 및 FE & BE 개발 <sub>(2024.06.24. ~ 2024.08.17)</sub>
-- 📝 [**PaperTechTrend**](https://github.com/wjdguswn1203/PaperTechTrend) - 기획 침여 및 FE & BE 개발 <sub>(2024.05.22. ~ 2024.05.31)</sub>
-- 📊 [**PaperTechTrend_Streamlit**](https://github.com/wjdguswn1203/PTT_Stramlit) - 기획 침여 및 FE & BE 개발 <sub>(2024.06.22. ~ 2024.06.28)</sub>
-- 📈 [**온더락**](https://github.com/wjdguswn1203/AWS_HJ_apiProject) - 기획 침여 및 FE & BE 개발 <sub>(2024.04.16 ~ 2024.05.02)</sub>
-- 💼 [AIInterview](https://github.com/wjdguswn1203/AIInterview) - 기획 침여 및 FE 개발 <sub>(2023.10.16 ~ 2023.10.21)</sub>
-- 📐 [Solucius](https://github.com/wjdguswn1203/solucius) - 기획 침여 및 FE <sub>(2023.07.01 ~ 2023.08.11)</sub>
+- 💻 [**PDFast**](https://github.com/sinizzu) - 기획 및 FE & BE 개발 <sub>(2024.06.24. ~ 2024.08.17)</sub>
+- 📝 [**PaperTechTrend**](https://github.com/wjdguswn1203/PaperTechTrend) - 기획 및 FE & BE 개발 <sub>(2024.05.22. ~ 2024.05.31)</sub>
+- 📊 [**PaperTechTrend_Streamlit**](https://github.com/wjdguswn1203/PTT_Stramlit) - 기획 및 FE & BE 개발 <sub>(2024.06.22. ~ 2024.06.28)</sub>
+- 📈 [**온더락**](https://github.com/wjdguswn1203/AWS_HJ_apiProject) - 기획 및 FE & BE 개발 <sub>(2024.04.16 ~ 2024.05.02)</sub>
+- 💼 [AIInterview](https://github.com/wjdguswn1203/AIInterview) - 기획 및 FE 개발 <sub>(2023.10.16 ~ 2023.10.21)</sub>
+- 📐 [Solucius](https://github.com/wjdguswn1203/solucius) - 기획 및 FE <sub>(2023.07.01 ~ 2023.08.11)</sub>
 
 <br>
 
